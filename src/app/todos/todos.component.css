@@ -9,3 +9,26 @@ table {
     width: 100%;
     margin-top: 20px;
 }
+
+.green {
+    background-color: green !important;
+    color: white !important;
+}
+
+.red {
+    background-color: red !important;
+    color: white !important;
+}
+
+.white {
+    background-color: white !important;
+    color: black !important;
+    border: 1px solid #ccc !important;
+}
+
+.filter-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
